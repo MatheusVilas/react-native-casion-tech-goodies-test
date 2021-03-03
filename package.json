@@ -36,8 +36,6 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
-    "@commitlint/cli": "^12.0.1",
-    "@commitlint/config-conventional": "^12.0.1",
     "@types/json-server": "^0.14.3",
     "@types/react": "~16.9.35",
     "@types/react-dom": "~16.9.8",
@@ -46,7 +44,6 @@
     "@types/styled-components-react-native": "^5.1.1",
     "@typescript-eslint/eslint-plugin": "^4.15.1",
     "@typescript-eslint/parser": "^4.15.1",
-    "commitizen": "^4.2.3",
     "eslint": "^7.20.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^7.2.0",
@@ -62,16 +59,5 @@
     "ts-node": "^9.1.1",
     "typescript": "~4.0.0"
   },
-  "private": true,
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
-    }
-  }
+  "private": true
 }
