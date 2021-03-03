@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "category": "Food",
+      "cover": "post-1.jpg",
+      "title": "Descubra o sabor de rosquinha que melhor te representa!",
+      "subtitle": "Tantos sabores por aí. Qual melhor exprime sua personalidade?",
+      "body": "Um donut, doughnut, dónute, rosca ou rosquinha é um pequeno bolo em forma de rosca (mais precisamente de toro), popular nos Estados Unidos e de origem incerta. Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida, como por exemplo chocolate. \n\nNos Estados Unidos e no Canadá, esta designação também pode ser usada para bolas de Berlim, que são conhecidas como \"sonhos\" no Brasil. Neste caso, em que o bolo tem uma forma esférica, a designação precisa usada nos Estados Unidos é filled doughnut, que significa \"donut recheado\". Pode ser recheado com geleia ou outros cremes doces. No caso da rosca, a designação precisa é ring doughnut, significando \"donut rosca\". \n\nEm Portugal, a expressão donut ou dónute designa apenas o bolo em forma de rosca. O bolo esférico corresponde à bola de Berlim;"
+    },
+    {
+      "id": "2",
+      "category": "Lifestyle",
+      "cover": "post-2.jpg",
+      "title": "Descubra a revolução do skate",
+      "subtitle": "Tantos sabores por aí. Qual melhor exprime sua personalidade?",
+      "body": "Um donut, doughnut, dónute, rosca ou rosquinha é um pequeno bolo em forma de rosca (mais precisamente de toro), popular nos Estados Unidos e de origem incerta. Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida, como por exemplo chocolate. \n\nNos Estados Unidos e no Canadá, esta designação também pode ser usada para bolas de Berlim, que são conhecidas como \"sonhos\" no Brasil. Neste caso, em que o bolo tem uma forma esférica, a designação precisa usada nos Estados Unidos é filled doughnut, que significa \"donut recheado\". Pode ser recheado com geleia ou outros cremes doces. No caso da rosca, a designação precisa é ring doughnut, significando \"donut rosca\". \n\nEm Portugal, a expressão donut ou dónute designa apenas o bolo em forma de rosca. O bolo esférico corresponde à bola de Berlim;"
+    },
+    {
+      "id": "3",
+      "category": "Tech",
+      "cover": "post-3.jpg",
+      "title": "Hackeando a matrix",
+      "subtitle": "Tantos sabores por aí. Qual melhor exprime sua personalidade?",
+      "body": "Um donut, doughnut, dónute, rosca ou rosquinha é um pequeno bolo em forma de rosca (mais precisamente de toro), popular nos Estados Unidos e de origem incerta. Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida, como por exemplo chocolate. \n\nNos Estados Unidos e no Canadá, esta designação também pode ser usada para bolas de Berlim, que são conhecidas como \"sonhos\" no Brasil. Neste caso, em que o bolo tem uma forma esférica, a designação precisa usada nos Estados Unidos é filled doughnut, que significa \"donut recheado\". Pode ser recheado com geleia ou outros cremes doces. No caso da rosca, a designação precisa é ring doughnut, significando \"donut rosca\". \n\nEm Portugal, a expressão donut ou dónute designa apenas o bolo em forma de rosca. O bolo esférico corresponde à bola de Berlim;"
+    },
+    {
+      "id": "4",
+      "category": "Energia",
+      "cover": "post-4.jpg",
+      "title": "O futuro da energia",
+      "subtitle": "Tantos sabores por aí. Qual melhor exprime sua personalidade?",
+      "body": "Um donut, doughnut, dónute, rosca ou rosquinha é um pequeno bolo em forma de rosca (mais precisamente de toro), popular nos Estados Unidos e de origem incerta. Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida, como por exemplo chocolate. \n\nNos Estados Unidos e no Canadá, esta designação também pode ser usada para bolas de Berlim, que são conhecidas como \"sonhos\" no Brasil. Neste caso, em que o bolo tem uma forma esférica, a designação precisa usada nos Estados Unidos é filled doughnut, que significa \"donut recheado\". Pode ser recheado com geleia ou outros cremes doces. No caso da rosca, a designação precisa é ring doughnut, significando \"donut rosca\". \n\nEm Portugal, a expressão donut ou dónute designa apenas o bolo em forma de rosca. O bolo esférico corresponde à bola de Berlim;"
+    },
+    {
+      "id": "5",
+      "category": "Filosofia",
+      "cover": "post-5.jpg",
+      "title": "Nada é o que parece, até que se prove o contrário",
+      "subtitle": "Tantos sabores por aí. Qual melhor exprime sua personalidade?",
+      "body": "Um donut, doughnut, dónute, rosca ou rosquinha é um pequeno bolo em forma de rosca (mais precisamente de toro), popular nos Estados Unidos e de origem incerta. Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida, como por exemplo chocolate. \n\nNos Estados Unidos e no Canadá, esta designação também pode ser usada para bolas de Berlim, que são conhecidas como \"sonhos\" no Brasil. Neste caso, em que o bolo tem uma forma esférica, a designação precisa usada nos Estados Unidos é filled doughnut, que significa \"donut recheado\". Pode ser recheado com geleia ou outros cremes doces. No caso da rosca, a designação precisa é ring doughnut, significando \"donut rosca\". \n\nEm Portugal, a expressão donut ou dónute designa apenas o bolo em forma de rosca. O bolo esférico corresponde à bola de Berlim;"
+    }
+  ],
+  "featured": {
+    "id": "1",
+    "category": "Destaque",
+    "cover": "post-1.jpg",
+    "title": "Descubra o sabor de rosquinha que melhor te representa!"
+  }
+}
